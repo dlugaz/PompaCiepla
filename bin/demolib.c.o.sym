@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project>
+  <bininfo>
+    <binfile>demolib.c.o</binfile>
+    <VendorID>0</VendorID>
+    <AppID>0</AppID>
+    <CRC>9990</CRC>
+    <PackageVer>1392669751</PackageVer>
+    <TotalPersistentSize>16</TotalPersistentSize>
+    <TotalStackSize>1038</TotalStackSize>
+    <TotalGRamSize>820</TotalGRamSize>
+    <StackSize>218</StackSize>
+    <TotalCodeSize>4325</TotalCodeSize>
+    <TotalConstSize>218</TotalConstSize>
+    <CompilerDate>20120514</CompilerDate>
+    <CompileID>0</CompileID>
+  </bininfo>
+  <namespace name="MyPackage" address="44" ByteSize="820" CodeAddress="44" CodeSize="126" SrcFile="demolib.c">
+  </namespace>
+</project>

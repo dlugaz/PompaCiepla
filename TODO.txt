@@ -1,0 +1,5 @@
+TODOLIST
+- Posprz¹taæ po starym Schedulerze v/
+- Zoptymalizowaæ sortowanie w DrawFormScheduleShow do prze³¹czania lewo prawo i nowej formy
+- Zainicjalizowaæ podstawowe ustawienia do harmonogramu w useri ->appinit
+- Upgrade aby mo¿na by³o w punkcie czasowym ustawiæ wiele dni tygodnia

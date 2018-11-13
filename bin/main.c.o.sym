@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project>
+  <bininfo>
+    <binfile>main.c.o</binfile>
+    <VendorID>0</VendorID>
+    <AppID>0</AppID>
+    <CRC>0</CRC>
+    <PackageVer>0</PackageVer>
+    <TotalPersistentSize>0</TotalPersistentSize>
+    <TotalStackSize>0</TotalStackSize>
+    <TotalGRamSize>0</TotalGRamSize>
+    <StackSize>0</StackSize>
+    <TotalCodeSize>0</TotalCodeSize>
+    <TotalConstSize>0</TotalConstSize>
+    <CompilerDate>20120514</CompilerDate>
+    <CompileID>0</CompileID>
+  </bininfo>
+</project>

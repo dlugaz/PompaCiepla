@@ -1,0 +1,50 @@
+<resources>
+
+<image_list>
+<!--
+  use  negative="1" attribute to reverse an image
+-->
+    <image id="0"  src="logo.bmp" />
+
+    <image id="01" src="service16.bmp" />
+    <image id="02" src="compressor16.bmp" />
+    <image id="03" src="ice16.bmp" />
+    <image id="04" src="sun16.bmp" />
+    <image id="05" src="defrost16.bmp" />
+    <image id="06" src="heater16.bmp" />
+    <image id="07" src="fan16.bmp" />
+    <image id="08" src="pump16.bmp" />
+
+    <image id="10" src="alarm16.bmp" />
+    <image id="11" src="clock8.bmp" />
+    <image id="12" src="ding.bmp" />
+    <image id="13" src="thermo.bmp" />
+    <image id="14" src="cold_a.bmp" />
+    <image id="15" src="cold_b.bmp" />
+    <image id="16" src="fan_a.bmp" />
+    <image id="17" src="fan_b.bmp" />
+    <image id="18" src="rain.bmp" />
+    <image id="19" src="dehumid_a.bmp" />
+    <image id="20" src="Level3.bmp" />
+    <image id="21" src="KeyLock.bmp" />
+    <image id="22" src="Level1.bmp" />
+    <image id="23" src="Level2.bmp" />
+    <image id="24" src="fire.bmp" />
+    <image id="25" src="serr.bmp" />
+    <image id="26" src="serr1.bmp" />
+    <image id="27" src="ding2.bmp" />
+    <image id="28" src="fire1.bmp" negative="1" />
+    <image id="29" src="humid_a.bmp" negative="1" />
+    <image id="30" src="humid_b.bmp" negative="1" />
+    <image id="31" src="dehumid_b.bmp" />
+    <image id="32" src="faninv.bmp" />
+    <image id="33" src="costr.bmp" />
+    <image id="34" src="I_O.bmp" />
+    <image id="35" src="Set_rows.bmp" />
+    <image id="36" src="Lock_rows.bmp" />
+    <image id="37" src="Maint_rows.bmp" />
+    <image id="38" src="logocompany.bmp" />
+
+</image_list>
+
+</resources>

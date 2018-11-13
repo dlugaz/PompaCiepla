@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mcxpackage>
+  <bininfo>
+    <binfile>app.pk</binfile>
+  </bininfo>
+  <files>
+    <file id="5FFFFE" name="desc.bin" />
+    <file id="5FFF11" name="Font_WE.bin" />
+    <file id="5FFF21" name="useri.o" symbolfile="useri.o.sym" />
+    <file id="5FFF06" name="graph.bin" />
+    <file id="5FFF10" name="AGF_text_EN.bin" />
+    <file id="1F5002" name="main.o" symbolfile="main.o.sym" />
+  </files>
+</mcxpackage>

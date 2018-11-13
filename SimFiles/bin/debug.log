@@ -1,0 +1,1928 @@
+
+20130430 235634 MCX compiler v2.57 (20130219)
+20130430 235634 compiling main.c  with options -D MULTILANGUAGE=1 -cf Font_WE.def -g -c main.c -o main.o...
+20130430 235657 main.o:0: note: e2p=720, ram=3658, rom=93512
+20130430 235657 TotalPersistentSize= 720
+20130430 235657 TotalStackSize=      3658 (gvar=3245, stack=413)
+20130430 235657 TotalCodeSize=       76975
+20130430 235657 TotalConstSize=      12058
+20130430 235657 TotalPackages=       1 (*44)
+20130430 235657 TotalMethods=        360 (*12)
+20130430 235657 TotalClasses=        108 (*0)
+
+
+20130430 235657 MCX compiler v2.57 (20130219)
+20130430 235657 compiling useri.c  with options -D MULTILANGUAGE=1 -cf Font_WE.def -g -c useri.c -o useri.o...
+20130430 235710 useri.o:0: note: e2p=31, ram=1336, rom=66860
+20130430 235710 TotalPersistentSize= 31
+20130430 235710 TotalStackSize=      1336 (gvar=918, stack=418)
+20130430 235710 TotalCodeSize=       52263
+20130430 235710 TotalConstSize=      11367
+20130430 235710 TotalPackages=       1 (*44)
+20130430 235710 TotalMethods=        265 (*12)
+20130430 235710 TotalClasses=        64 (*0)
+
+
+20130501 003123 MCX compiler v2.57 (20130219)
+20130501 003123 compiling main.c  with options -D MULTILANGUAGE=1 -cf Font_WE.def -g -c main.c -o main.o...
+20130501 003147 main.o:0: note: e2p=720, ram=3658, rom=93512
+20130501 003147 TotalPersistentSize= 720
+20130501 003147 TotalStackSize=      3658 (gvar=3245, stack=413)
+20130501 003147 TotalCodeSize=       76975
+20130501 003147 TotalConstSize=      12058
+20130501 003147 TotalPackages=       1 (*44)
+20130501 003147 TotalMethods=        360 (*12)
+20130501 003147 TotalClasses=        108 (*0)
+
+
+20130501 003148 MCX compiler v2.57 (20130219)
+20130501 003148 compiling useri.c  with options -D MULTILANGUAGE=1 -cf Font_WE.def -g -c useri.c -o useri.o...
+20130501 003200 useri.o:0: note: e2p=31, ram=1336, rom=66860
+20130501 003200 TotalPersistentSize= 31
+20130501 003200 TotalStackSize=      1336 (gvar=918, stack=418)
+20130501 003200 TotalCodeSize=       52263
+20130501 003200 TotalConstSize=      11367
+20130501 003200 TotalPackages=       1 (*44)
+20130501 003200 TotalMethods=        265 (*12)
+20130501 003200 TotalClasses=        64 (*0)
+
+
+20130515 162058 MCX compiler v2.57 (20130219)
+20130515 162058 compiling main.c  with options -D MULTILANGUAGE=1 -cf Font_WE.def -g -c main.c -o main.o...
+20130515 162118 main.o:0: note: e2p=720, ram=3303, rom=83572
+20130515 162118 TotalPersistentSize= 720
+20130515 162118 TotalStackSize=      3303 (gvar=2951, stack=352)
+20130515 162118 TotalCodeSize=       68063
+20130515 162118 TotalConstSize=      11378
+20130515 162118 TotalPackages=       1 (*44)
+20130515 162118 TotalMethods=        333 (*12)
+20130515 162118 TotalClasses=        95 (*0)
+
+
+20130515 162118 MCX compiler v2.57 (20130219)
+20130515 162118 compiling useri.c  with options -D MULTILANGUAGE=1 -cf Font_WE.def -g -c useri.c -o useri.o...
+20130515 162131 useri.o:0: note: e2p=31, ram=1336, rom=66868
+20130515 162131 TotalPersistentSize= 31
+20130515 162131 TotalStackSize=      1336 (gvar=918, stack=418)
+20130515 162131 TotalCodeSize=       52263
+20130515 162131 TotalConstSize=      11376
+20130515 162131 TotalPackages=       1 (*44)
+20130515 162131 TotalMethods=        265 (*12)
+20130515 162131 TotalClasses=        64 (*0)
+
+
+20130515 172304 MCX compiler v2.57 (20130219)
+20130515 172304 compiling main.c  with options -D MULTILANGUAGE=1 -cf Font_WE.def -g -c main.c -o main.o...
+20130515 172324 main.o:0: note: e2p=720, ram=3303, rom=83572
+20130515 172324 TotalPersistentSize= 720
+20130515 172324 TotalStackSize=      3303 (gvar=2951, stack=352)
+20130515 172324 TotalCodeSize=       68063
+20130515 172324 TotalConstSize=      11378
+20130515 172324 TotalPackages=       1 (*44)
+20130515 172324 TotalMethods=        333 (*12)
+20130515 172324 TotalClasses=        95 (*0)
+
+
+20130515 172324 MCX compiler v2.57 (20130219)
+20130515 172324 compiling useri.c  with options -D MULTILANGUAGE=1 -cf Font_WE.def -g -c useri.c -o useri.o...
+20130515 172336 useri.o:0: note: e2p=31, ram=1336, rom=66868
+20130515 172336 TotalPersistentSize= 31
+20130515 172336 TotalStackSize=      1336 (gvar=918, stack=418)
+20130515 172336 TotalCodeSize=       52263
+20130515 172336 TotalConstSize=      11376
+20130515 172336 TotalPackages=       1 (*44)
+20130515 172336 TotalMethods=        265 (*12)
+20130515 172336 TotalClasses=        64 (*0)
+
+
+20130516 134120 MCX compiler v2.57 (20130219)
+20130516 134120 compiling main.c  with options -D MULTILANGUAGE=0 -cf Font_WE.def -g -c main.c -o main.o...
+20130516 134120 AppDefine.c:391: error: Name 'Params_Al_Relay_Delay' already defined in AGF_Define.c, line 69
+20130516 134120 AppDefine.c:392: error: Name 'Params_Al_Relay_ActInStdby' already defined in AGF_Define.c, line 70
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Heating_Hysteresys' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Cooling_Hysteresys' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Swov_En_time_C2' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Swov_En_time_STH' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Swov_Dis_time_C2' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Swov_Dis_time_C1' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_EN_time_STH' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_EN_temp_STH' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AI_Text' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AL_Source_Prot_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AL_Source_Prot_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DO_Tank_Heater_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DO_Tank_Heater_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DI_T_Room1_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AI_Temp_Room_1_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AI_Temp_Circuit_2_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DI_Presence' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Room_Diff' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Circuit_DiffAct' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Circuit_MaxSet' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_MMI_ID_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_MMI_ID_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_2_Probe_Type_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_Probe_Type_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_Probe_Type_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_Set_COM_Summer_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_Set_COM_Summer_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_Set_ECO_Summer_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_Set_ECO_Summer_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_Set_COM_Winter_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_Set_COM_Winter_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_Set_ECO_Winter_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_Set_ECO_Winter_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_RSI_Start_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_RSI_Start_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_RSI_End_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Room_1_RSI_End_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Circuit_1_Description_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Circuit_1_Description_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_Sink_Return_Run_Set' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Circuit_3_Description_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Circuit_2_Description_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_Circuit_2_Description_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_2_StartTemp_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_1_MaxTemp_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_1_MaxTemp_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_Reg_SetType' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_HP_RegPI_Set' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_1_StartTemp_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_1_StartTemp_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RegPI_Set' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_1_EndTemp_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_1_EndTemp_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_1_Tout_Start_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_1_Tout_Start_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_1_Tout_End_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_CircType_1_Tout_End_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Circuit_Freeze_Prot' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_Circuit_EcoOffset' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AI_Text' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AI_Text' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AI_Text' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DO_Room_Pump_3_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DO_Room_Pump_1_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DO_Room_Pump_1_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DO_Room_Pump_2_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DO_Room_Pump_2_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DI_Presence' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DI_T_DHW_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AI_DHW_Temperature_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Enable' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Enable' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Enable' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Resistor_Enable' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_MaxTime' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_HP_RestoreTime' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Set_Max' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Set' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Set_ECO' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Set_Hysteresys' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Set_Protection' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Set_HP_MaxTemp' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_ExtTemp_2CompEn' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Dis_Set' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Dis_StartTime' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Dis_Time' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Dis_Period' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'Params_RHP_DHW_Dis_Max_Time' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_DHW_Dis_Period_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_DHW_Dis_Period_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'RHP_DHW_Dis_Period_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'W_DisMaxTime_ID' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: Invalid parameter
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AI_Text' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'AI_Text' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DO_DHW_Heater' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134133 RHP_Modules.lib:0: error: Symbol 'DO_DHW_Heater' not found (method)
+20130516 134133 RHP_Modules.lib:0: error: No subject
+20130516 134134 ch_regulation.lib:0: error: Symbol 'Params_HP_RegPI_Set' not found (method)
+20130516 134134 ch_regulation.lib:0: error: Invalid parameter
+20130516 134134 ch_regulation.lib:0: error: Symbol 'Params_RegPI_Set' not found (method)
+20130516 134134 ch_regulation.lib:0: error: Invalid parameter
+20130516 134134 ch_regulation.lib:0: error: Symbol 'Params_RegPI_Diff' not found (method)
+20130516 134134 ch_regulation.lib:0: error: Invalid parameter
+20130516 134134 ch_regulation.lib:0: error: Symbol 'DI_Set2' not found (method)
+20130516 134134 ch_regulation.lib:0: error: Symbol 'Params_Reg_Type' not found (method)
+20130516 134134 ch_regulation.lib:0: error: No subject
+20130516 134134 ch_regulation.lib:0: error: Symbol 'Params_Reg_Type' not found (method)
+20130516 134134 ch_regulation.lib:0: error: No subject
+20130516 134134 ch_regulation.lib:0: error: Symbol 'Params_Reg_Type' not found (method)
+20130516 134134 ch_regulation.lib:0: error: No subject
+20130516 134134 ch_regulation.lib:0: error: Symbol 'Params_Reg_Type' not found (method)
+20130516 134134 ch_regulation.lib:0: error: No subject
+20130516 134134 ch_pump.lib:0: error: Symbol 'DO_DHW_Pump' not found (method)
+20130516 134134 ch_pump.lib:0: error: No subject
+20130516 134134 ch_pump.lib:0: error: Symbol 'Params_SinkPump_Run_on_DHW' not found (method)
+20130516 134134 ch_pump.lib:0: error: No subject
+20130516 134134 ch_pump.lib:0: error: Symbol 'DO_CP1' not found (method)
+20130516 134134 ch_pump.lib:0: error: No subject
+20130516 134134 ch_pump.lib:0: error: Symbol 'DO_CP1' not found (method)
+20130516 134134 ch_pump.lib:0: error: No subject
+20130516 134134 ch_pump.lib:0: error: Symbol 'DO_CP2' not found (method)
+20130516 134134 ch_pump.lib:0: error: No subject
+20130516 134134 ch_pump.lib:0: error: Symbol 'DO_CP1' not found (method)
+20130516 134134 ch_pump.lib:0: error: No subject
+20130516 134134 ch_pump.lib:0: error: Symbol 'DO_DHW_Pump' not found (method)
+20130516 134134 ch_pump.lib:0: error: No subject
+20130516 134134 ch_pump.lib:0: error: Symbol 'DO_SP1' not found (method)
+20130516 134134 ch_pump.lib:0: error: No subject
+20130516 134134 ch_internal_coil.lib:0: error: Symbol 'AI_Supply_Flow_Temperature' not found (method)
+20130516 134134 ch_internal_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_internal_coil.lib:0: error: Symbol 'AL_Freeze_Int_Coil_ID' not found (method)
+20130516 134134 ch_internal_coil.lib:0: error: No subject
+20130516 134134 ch_internal_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_internal_coil.lib:0: error: Symbol 'AL_Freeze_Int_Coil_ID' not found (method)
+20130516 134134 ch_internal_coil.lib:0: error: No subject
+20130516 134134 ch_internal_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_internal_coil.lib:0: error: Symbol 'AL_Freeze_Int_Coil_ID' not found (method)
+20130516 134134 ch_internal_coil.lib:0: error: No subject
+20130516 134134 ch_internal_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_internal_coil.lib:0: error: Symbol 'AL_Freeze_Int_Coil_ID' not found (method)
+20130516 134134 ch_internal_coil.lib:0: error: No subject
+20130516 134134 ch_internal_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_internal_coil.lib:0: error: Symbol 'AL_Sink_Prot_ID' not found (method)
+20130516 134134 ch_internal_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_internal_coil.lib:0: error: Symbol 'AL_Freeze_Int_Coil_ID' not found (method)
+20130516 134134 ch_internal_coil.lib:0: error: No subject
+20130516 134134 ch_internal_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_internal_coil.lib:0: error: Symbol 'AL_Sink_Prot_ID' not found (method)
+20130516 134134 ch_internal_coil.lib:0: error: No subject
+20130516 134134 ch_internal_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AI_SaltWater_Supply_Temperature' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_DI_source_Press_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_Source_Prot_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 ch_external_coil.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 ch_external_coil.lib:0: error: No subject
+20130516 134134 ch_external_coil.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sys_HeatCool' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sys_HeatCool' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sys_ShowRolText' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sys_HeatCool' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Conf_CNumPerCirc' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Comp_TimeMaxOnAtPl' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Comp_Rotation' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cinverter_MinSpeed' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cinverter_MaxSpeed' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cinverter_TimeMinON' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_SinkPump_PumpTimePulseOff' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_SinkPump_PumpTimePulseOn' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_SinkPump_PumpMode' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_SinkPump_PumpOffDelay' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Al_FlowMinOFF' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Sink_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Sink_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Sink_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Sink_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Conf_CondFanNum' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_SourcePump_TimePulseOn' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_SourcePump_OffDelay' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_SourcePump_TimePulseOn' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Al_FlowMinOFF' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Source_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Source_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Source_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Source_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sink_Ice_Set' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sink_Ice_Diff' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sink_Return_Run_Set' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sink_External_Run_Set' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sink_Prot_StartDelay' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sink_Prot_StartHP_time' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Source_RegType' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Evap_Set' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Evap_Diff' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Evap_Min_Ref' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Evap_Max_Ref' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Evap_DT_Min' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Evap_DT_Max' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cond_Set' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cond_Diff' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cond_Min_Ref' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cond_Max_Ref' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cond_DT_Min' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cond_DT_Max' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_EXD_o30' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cond_ProbeFault' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Conf_PressType' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Source_Ice_Set' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Source_Ice_Diff' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Source_Prot_StopHP_time' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_SourceFan_FandC' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cond_SetTextFault' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Cond_DifTextFault' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Conf_CondAirorWater' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Fcond_Mod_En' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Conf_CondFanNum' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Fcond_Inverter_MinSpeed' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Fcond_Inverter_MaxSpeed' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Fcond_TforceMax' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_Probe' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_ComprPowReq' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_ComboSetStart' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_ComboSetEnd' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_SetStart' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_SetEnd' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_FanOnly' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_Fan' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_Type' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_MinTime' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_MaxTime' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_SameCircuitMinDelay' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_WaitingTimeAfterDef' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_ForcedVerifyTime' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_ForcedSetStart' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_HP_Def_VerifyTime' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_SinkPump_PumpTimePulseOn' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Freeze_Int_Coil_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Freeze_Int_Coil_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Sink_Prot_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'DI_FlowPe' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Sink_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'DI_FlowPe' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Sink_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Freeze_Ext_Coil_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Source_Prot_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'DI_FlowPc' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Source_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'DI_FlowPc' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AL_Source_Flow_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sys_HeatCool' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'DI_ONOFF_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'DI_ONOFF_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'Params_Sys_TOnDelay' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AI_Suction_PressC1_ID' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AI_Suction_TempC1_ID' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AI_Discharge_PressC1_ID' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AI_Discharge_TempC1_ID' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AI_Suction_PressC1_ID' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AI_Suction_TempC1_ID' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AI_Discharge_PressC1_ID' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AI_Discharge_TempC1_ID' not found (method)
+20130516 134134 chiller.lib:0: error: No subject
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134134 chiller.lib:0: error: Symbol 'AI_Text_ID' not found (method)
+20130516 134134 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Ovld_C1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Ovld_C2_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Ovld_C1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Ovld_C2_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Ovld_C_Gen_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Source_Ovld_1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Source_Ovld_2_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Source_Ovld_1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Source_Ovld_2_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Source_Ovld_Gen_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DI_HPL1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Al_HPFromAIEn' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'AL_HP_Circ1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_HP_Circ1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Al_HPSet' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Al_HPSet' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_HP_Circ1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Al_LPifCOff' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Def_LPalarmEn' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'DI_LPL1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Al_LPFromAIEn' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'AL_LP_Circ1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_LP_Circ1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Al_LPSet' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Al_LPSet' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_LP_Circ1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_LP_Circ1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Al_LPifCOff' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'AL_LP_Circ1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Ovld_Gen_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DI_ALR_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Reg_Probe' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'AI_SaltWater_Supply_Temperature_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Reg_Probe' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'AI_SaltWater_Return_Temperature_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Reg_Probe' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'AI_Return_Flow_Temperature_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Reg_Probe' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'AI_Supply_Flow_Temperature_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Reg_Probe' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'AI_DHW_Temperature_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Reg_Probe' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'AI_Storage_Tank_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Freeze_Int_Coil' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_SinkPump_PumpTimePulseOn' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Freeze_Int_Coil' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_StartSpeed' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Reg_Type' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Conf_CNumPerCirc' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_SinkPump_PumpTimePulseOn' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Freeze_Int_Coil' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_ChangeoverDelay' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_ChangeoverDelay' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_ChangeoverDelay' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_ChangeoverDelay' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Comp_C1En_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Comp_C1En_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Ext_Coil_PressC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Ext_Coil_Def_TempC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Text_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Int_Coil_PressC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_SaltWater_Supply_Temperature_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_SaltWater_Return_Temperature_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Return_Flow_Temperature_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Supply_Flow_Temperature_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_DHW_Temperature_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Storage_Tank_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Temp_Room_1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Temp_Room_2_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Temp_Room_3_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Temp_Circuit_2_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_AI_Temp_Circuit_3_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_C2' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'DO_SF1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AO_Fc1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AO_Fc1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_FI1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_FI1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_FI1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_FI1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_ALR_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_ALR_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_WAR_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_WAR_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DI_LPL1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DI_LPL1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DI_LPL1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DI_LPL1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_StartSpeed' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Conf_CNumPerCirc' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_StartSpeed' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_LIQUID_VALVE1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_StartSpeed' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Reg_Type' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Conf_CNumPerCirc' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Cinverter_StartSpeed' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Reg_Type' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Reg_Type' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Sys_TOnDelay' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Sys_TOnDelay' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Sys_TOnDelay' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Sys_TOnDelay' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'AL_Ovld_Gen_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_KeyChangeoverEn' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'DI_HC' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Sys_HeatCool' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_KeyChangeoverEn' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Sys_HeatCool' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Sys_HeatCool' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_AIChangeoverEn' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_AIChangeoverEn' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_AIChangeoverEn' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Sys_HeatCool' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_AIChangeoverEn' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_AIChangeoverEn' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Sys_HeatCool' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'DI_DEF' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Def_DIconf' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Def_DIconf' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Def_DIconf' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_Sys_HeatCool' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Def_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Def_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'W_DefrostMaxTime_ID' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_ChangeoverDelay' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_ChangeoverDelay' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'DO_HC1_ID' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_ChangeoverDelay' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_ChangeoverDelay' not found (method)
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 chiller.lib:0: error: Symbol 'Params_HP_Def_En' not found (method)
+20130516 134135 chiller.lib:0: error: No subject
+20130516 134135 chiller.lib:0: error: Invalid parameter
+20130516 134135 swa_ch.lib:0: error: Symbol 'Params_Sys_Restart' not found (method)
+20130516 134135 swa_ch.lib:0: error: No subject
+20130516 134135 swa_ch.lib:0: error: Symbol 'Params_Sys_Restart' not found (method)
+20130516 134135 swa_ch.lib:0: error: No subject
+20130516 134135 AGF_Alarm.c:31: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:31: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:32: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:32: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:32: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:33: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:33: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:33: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:33: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:34: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:34: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:34: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:34: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:34: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:35: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:35: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:35: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:35: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:35: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:35: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:36: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:36: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:36: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:36: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:36: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:36: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:36: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:37: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:37: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:37: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:37: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:37: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:37: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:37: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:37: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:38: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:38: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:38: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:38: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:38: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:38: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:38: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:38: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:38: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:39: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:39: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:39: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:39: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:39: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:39: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:39: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:39: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:39: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:39: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:40: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:40: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:40: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:40: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:40: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:40: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:40: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:40: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:40: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:40: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:40: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:41: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:41: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:41: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:41: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:41: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:41: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:41: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:41: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:41: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:41: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:41: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:41: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:42: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:42: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:43: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:43: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:44: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:44: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:45: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:45: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:46: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:46: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:47: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:47: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:49: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:49: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:50: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:50: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:51: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:51: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:51: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:52: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:52: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:52: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:53: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:53: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:53: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:54: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:54: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:54: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:55: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:55: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:55: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:56: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:56: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:56: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:57: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:57: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:57: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:58: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:58: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:58: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:59: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:59: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:59: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:60: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:60: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:61: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:61: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:62: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:62: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:63: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:63: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:64: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:64: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:65: error: Invalid modbus variable index
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65534)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 AGF_Alarm.c:65: error: Modbus index already used (65535)
+20130516 134136 ch_export.lib:0: error: Invalid expression
+20130516 134136 ch_export.lib:0: error: Invalid expression
+20130516 134136 ch_export.lib:0: error: Invalid expression
+20130516 134136 ch_export.lib:0: error: Invalid expression
+20130516 134136 ch_export.lib:0: error: Invalid expression
+20130516 134136 *** ERROR ***
+
+
+20130516 134650 MCX compiler v2.57 (20130219)
+20130516 134650 compiling main.c  with options -D MULTILANGUAGE=0 -cf Font_WE.def -g -c main.c -o main.o...
+20130516 134650 AppDefine.c:391: error: Name 'Params_Al_Relay_Delay' already defined in AGF_Define.c, line 69
+20130516 134650 AppDefine.c:392: error: Name 'Params_Al_Relay_ActInStdby' already defined in AGF_Define.c, line 70

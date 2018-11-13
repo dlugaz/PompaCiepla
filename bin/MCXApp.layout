@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="AGF_Alarm.c" open="1" top="0" tabpos="3">
+		<Cursor position="899" topLine="0" />
+	</File>
+	<File name="AGF_Analog_Input.c" open="0" top="0" tabpos="4">
+		<Cursor position="798" topLine="12" />
+	</File>
+	<File name="AGF_Define.c" open="1" top="0" tabpos="4">
+		<Cursor position="369" topLine="0" />
+	</File>
+	<File name="AGF_Digital_Input.c" open="0" top="0" tabpos="3">
+		<Cursor position="2312" topLine="36" />
+	</File>
+	<File name="AGF_Digital_Output.c" open="1" top="0" tabpos="2">
+		<Cursor position="2552" topLine="0" />
+	</File>
+	<File name="AGF_MenuDef.c" open="0" top="0" tabpos="3">
+		<Cursor position="1187" topLine="5" />
+	</File>
+	<File name="AGF_Params.c" open="1" top="0" tabpos="3">
+		<Cursor position="6178" topLine="0" />
+	</File>
+	<File name="AGF_Strings.c" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="AGF_resources.c" open="0" top="0" tabpos="7">
+		<Cursor position="469" topLine="0" />
+	</File>
+	<File name="AlgoLib.c" open="1" top="0" tabpos="4">
+		<Cursor position="2168" topLine="84" />
+	</File>
+	<File name="AppDefine.c" open="1" top="0" tabpos="6">
+		<Cursor position="1540" topLine="7" />
+	</File>
+	<File name="UILib.c" open="1" top="0" tabpos="3">
+		<Cursor position="1718" topLine="64" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="3159" topLine="65" />
+	</File>
+	<File name="nvmcc_headers.h" open="0" top="0" tabpos="11">
+		<Cursor position="35631" topLine="1019" />
+	</File>
+	<File name="nvmcc_headers_Algo.h" open="0" top="0" tabpos="5">
+		<Cursor position="30373" topLine="951" />
+	</File>
+	<File name="useri.c" open="1" top="1" tabpos="5">
+		<Cursor position="16519" topLine="454" />
+	</File>
+</CodeBlocks_layout_file>

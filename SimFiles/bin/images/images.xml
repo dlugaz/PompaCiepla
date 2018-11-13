@@ -1,0 +1,99 @@
+<resources>
+
+<image_list>
+<!--
+  	use  negative="1" attribute to reverse an image
+-->
+<!--	<image id="00"  src="StdImages\ICSupplyFan.bmp" />-->
+		<image id="01"  src="StdImages\ICDefrost.bmp" />
+<!--	<image id="02"  src="StdImages\ICHeatBattery.bmp" />
+		<image id="03"  src="StdImages\ICCoolBattery.bmp" />
+		<image id="04"  src="StdImages\ICPHeatBattery.bmp" />
+		<image id="05"  src="StdImages\ICHumidifier.bmp" />
+		<image id="06"  src="StdImages\ICDehumidifier.bmp" />
+        <image id="07"  src="StdImages\ICFreeHeating.bmp" />
+        <image id="08"  src="StdImages\ICWFreeCooling.bmp" />
+        <image id="09"  src="StdImages\ICSFreeCooling.bmp" />
+        <image id="10"  src="StdImages\ICRecovery.bmp" />
+		<image id="11"  src="StdImages\ICWinter.bmp" /> -->	
+		<image id="12"  src="StdImages\ICComp1.bmp" />
+		<image id="13"  src="StdImages\ICComp2.bmp" />
+		<image id="14"  src="StdImages\ICComp3.bmp" />
+		<image id="15"  src="StdImages\ICComp4.bmp" />
+        <image id="16"  src="StdImages\ICLogo.bmp" />
+		<image id="17"  src="StdImages\ICIce.bmp" />
+		<image id="18"  src="StdImages\ICIce1.bmp" />
+		<image id="19"  src="StdImages\ICFire.bmp" />
+		<image id="20"  src="StdImages\ICFire1.bmp" />
+		<image id="21"  src="StdImages\ICAlarm.bmp"  />
+		<image id="22"  src="StdImages\ICAlarm1.bmp" />
+		<image id="23"  src="StdImages\ICCompressor.bmp" />
+		<image id="24"  src="StdImages\ICSun.bmp" />  		
+      	<image id="25"  src="StdImages\ICDing.bmp" />          		
+		<image id="26"  src="StdImages\ICDing1.bmp" />     		
+		<image id="27"  src="StdImages\ICFanCond.bmp" />
+		<image id="28"  src="StdImages\ICFanEv.bmp" />
+		<image id="29"  src="StdImages\ICPump.bmp" />
+		<image id="30"  src="StdImages\ICPump1.bmp" />               
+  	    <image id="31"  src="StdImages\ICPump2.bmp" />
+		<image id="32"  src="StdImages\ICPump3.bmp" />
+		<image id="33"  src="StdImages\ICPump4.bmp" />
+<!--	<image id="34"  src="StdImages\Free.bmp" />
+		<image id="35"  src="StdImages\Free.bmp" />
+		<image id="36"  src="StdImages\Free.bmp" />-->					    
+		<image id="37"  src="StdImages\ICClock8.bmp" />
+		<image id="38"  src="StdImages\ICService.bmp" />
+		<image id="39"  src="StdImages\ICCompressorOil.bmp" />
+		<image id="40"  src="StdImages\ICFan.bmp" />
+		<image id="41"  src="StdImages\ICMoon.bmp" />                   
+  	    <image id="42"  src="StdImages\ICTimebar.bmp" />
+		<image id="43"  src="StdImages\ICFan_step1.bmp" />
+		<image id="44"  src="StdImages\ICFan_step2.bmp" />
+		<image id="45"  src="StdImages\ICFan_step3.bmp" />
+		<image id="46"  src="StdImages\ICValve2P_Closed.bmp" />
+		<image id="47"  src="StdImages\ICValve2P_Open.bmp" />
+		<image id="48"  src="StdImages\ICHeater.bmp" />
+<!--
+  	    use id greater than 100 for your cstom iages
+-->		
+<!--	<image id="100"  src="MyCustomImage1.bmp" />				-->	
+<!--	<image id="101"  src="MyCustomImage2.bmp" />				-->	
+		<image id="102" src="sun_DHW_16.bmp" />
+		<image id="103" src="Saltpump16.bmp" />
+		<image id="104" src="DHW.bmp" />
+		<image id="105" src="DHWSR.bmp" />
+		<image id="106" src="StartLogoSX.bmp" />
+		<image id="107" src="StartLogoDX.bmp" />
+		<image id="108" src="StartLogoDX_1.bmp" />
+		<image id="109" src="StartLogoDX_2.bmp" />
+		<image id="110" src="StartLogoDX_3.bmp" />
+		<image id="111" src="UNI_OFF.bmp" />
+		<image id="112" src="UNI_AUT.bmp" />
+		<image id="113" src="UNI_COM.bmp" />
+		<image id="114" src="UNI_ECO.bmp" />
+		<image id="115" src="UNI_VAC.bmp" />
+		<image id="116" src="UNI_PRO.bmp" />
+		<image id="117" src="UNI_HWO.bmp" />
+		<image id="118" src="UNI_BST.bmp" />
+		<image id="119" src="DHW_AUT.bmp" />
+		<image id="120" src="DHW_COM.bmp" />
+		<image id="121" src="DHW_ECO.bmp" />
+		<image id="122" src="DHW_PRO.bmp" />
+		<image id="123" src="DHW_BLK.bmp" />
+		<image id="124" src="SpumpC0.bmp" />
+		<image id="125" src="SpumpC1.bmp" />
+		<image id="126" src="SpumpC2.bmp" />
+		<image id="127" src="SpumpC3.bmp" />
+		<image id="128" src="SpumpC4.bmp" />
+		<image id="129" src="SpumpC5.bmp" />
+		<image id="130" src="SpumpC6.bmp" />
+		<image id="131" src="SpumpC7.bmp" />
+		<image id="132" src="SpumpC8.bmp" />
+		<image id="133" src="SpumpC9.bmp" />
+		<image id="134" src="SpumpC10.bmp"/>
+		<image id="135" src="sun_PL1_16.bmp" />
+		<image id="136" src="sun_PL2_16.bmp" />
+</image_list>
+</resources>
+
+

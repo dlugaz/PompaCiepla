@@ -1,0 +1,25 @@
+<resources>
+
+<font_list>
+    <!-- Add two already compiled font files -->
+    <font id="0" font_bin="font0.bin" />
+    <font id="1" font_bin="font1.bin" />
+
+    <!-- Add one new font file created from TrueType font (could be chinese) -->
+    <font id="2" chars_file="UsedChar_CN.txt" name="Courier New" size="10"  width="16"  height="16" />
+</font_list>
+
+
+<package>
+    <app file_name="main.o" />
+    <ui  file_name="useri.o" />
+    <grp file_name="graph.bin" />
+    
+    <text lang="1" src="AGF_text_EN.rc" font="font_WE.bin" />
+    <text lang="2" src="AGF_text_IT.rc" font="font_WE.bin" />
+    <text lang="3" src="AGF_text_RU.rc" font="font_RU.bin" />
+    <!-- text lang="4" src="AGF_text_CN.rc" font="font_CN.bin" / -->
+</package>
+
+
+</resources>

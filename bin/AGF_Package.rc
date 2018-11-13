@@ -1,0 +1,13 @@
+<resources>
+
+    <package>
+
+        <app file_name="main.o" />
+        <ui  file_name="useri.o" />
+        <grp file_name="graph.bin" />
+
+        <text lang="0" src="AGF_text_EN.rc" />
+
+    </package>
+
+</resources>

@@ -1,0 +1,785 @@
+
+20140217 204229 MCX compiler v2.51 (20120514)
+20140217 204229 compiling demolib.c  with options demolib.c...
+20140217 204231 demolib.c:96: error: Symbol 'App_Init' not found (method)
+20140217 204231 demolib.c:129: error: Symbol 'App_Run' not found (method)
+20140217 204231 *** ERROR ***
+
+
+20140217 213124 MCX compiler v2.51 (20120514)
+20140217 213124 compiling /windows/Documents  with options -c /windows/Documents and Settings/Krzysiek/Desktop/MCXzatechsv6/main.c...
+20140217 213124 :1: error: Source file not found
+20140217 213124 *** ERROR ***
+
+
+20140217 213336 MCX compiler v2.51 (20120514)
+20140217 213336 compiling ./main.c  with options -c ./main.c...
+20140217 213336 :1: error: Source file not found
+20140217 213336 *** ERROR ***
+
+
+20140217 213350 MCX compiler v2.51 (20120514)
+20140217 213350 compiling ../main.c  with options -c ../main.c...
+20140217 213356 ../main.c.o:0: note: e2p=401, ram=1426, rom=21232
+20140217 213356 TotalPersistentSize= 401
+20140217 213356 TotalStackSize=      1426 (gvar=1182, stack=244)
+20140217 213356 TotalCodeSize=       16222
+20140217 213356 TotalConstSize=      3198
+20140217 213356 TotalPackages=       1 (*44)
+20140217 213356 TotalMethods=        147 (*12)
+20140217 213356 TotalClasses=        49 (*0)
+
+
+20140217 213419 MCX compiler v2.51 (20120514)
+20140217 213419 compiling ../useri.c  with options -c ../useri.c...
+20140217 213427 ../useri.c.o:0: note: e2p=20, ram=3399, rom=38000
+20140217 213427 TotalPersistentSize= 20
+20140217 213428 TotalStackSize=      3399 (gvar=1495, stack=1904)
+20140217 213428 TotalCodeSize=       27378
+20140217 213428 TotalConstSize=      8533
+20140217 213428 TotalPackages=       1 (*44)
+20140217 213428 TotalMethods=        170 (*12)
+20140217 213428 TotalClasses=        49 (*0)
+
+
+20181113 093743 MCX compiler v2.51 (20181112)
+20181113 093743 compiling main.c  with options -g -c main.c -o main.o...
+20181113 093744 main.c:29: error: Include file not found (TStaticIOManager.lib)
+20181113 093745 unknown:0: error: Link error - Symbol 'TDIDefault' not found (Type)
+20181113 093745 unknown:0: error: Link error - Symbol 'TDODefault' not found (Type)
+20181113 093745 unknown:0: error: Link error - Symbol 'TAIDefault' not found (Type)
+20181113 093745 unknown:0: error: Link error - Symbol 'TAODefault' not found (Type)
+20181113 093745 main.c:38: error: Link error - Symbol 'TStaticIOManager' not found (Type)
+20181113 093747 AlgoLib.c:146: error: Method 'TAIDefault.PercentVAI' not found
+20181113 093747 AlgoLib.c:146: error: object types must be passed as reference
+20181113 093747 AlgoLib.c:146: error: Type mismatch: found "TAIDefault" required "signed_long"
+20181113 093747 AlgoLib.c:153: error: Method 'TAIDefault.IndexVAIMIN' not found
+20181113 093747 AlgoLib.c:153: error: Method 'TAIDefault.sum' not found
+20181113 093747 AlgoLib.c:153: error: object types must be passed as reference
+20181113 093747 AlgoLib.c:153: error: Type mismatch: found "TAIDefault" required "signed_long"
+20181113 093747 AlgoLib.c:173: error: Method 'TAIDefault.ErrorOnVAI' not found
+20181113 093747 AlgoLib.c:176: error: Integer expression expected
+20181113 093747 AlgoLib.c:174: error: Method 'TAIDefault.IndexVAIMIN' not found
+20181113 093747 AlgoLib.c:174: error: object types must be passed as reference
+20181113 093747 AlgoLib.c:174: error: Type mismatch: found "TAIDefault" required "signed_long"
+20181113 093747 AlgoLib.c:174: error: Method 'TAIDefault.IndexVAIMIN' not found
+20181113 093747 AlgoLib.c:174: error: object types must be passed as reference
+20181113 093747 AlgoLib.c:174: error: Type mismatch: found "TAIDefault" required "signed_long"
+20181113 093747 AlgoLib.c:174: error: Method 'TAIDefault.IndexVAIMAX' not found
+20181113 093747 AlgoLib.c:174: error: object types must be passed as reference
+20181113 093747 AlgoLib.c:174: error: Type mismatch: found "TAIDefault" required "signed_long"
+20181113 093747 main.c:157: error: Symbol 'VAIValue' not found (method)
+20181113 093747 main.c:157: error: No subject
+20181113 093747 main.c:157: error: Invalid parameter
+20181113 093747 main.c:159: error: Symbol 'VAIValue' not found (method)
+20181113 093747 main.c:159: error: No subject
+20181113 093747 main.c:159: error: Invalid parameter
+20181113 093747 main.c:201: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:201: error: No subject
+20181113 093747 main.c:201: error: No subject
+20181113 093747 main.c:201: error: Invalid parameter
+20181113 093747 main.c:206: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:206: error: No subject
+20181113 093747 main.c:206: error: No subject
+20181113 093747 main.c:212: error: Symbol 'VDIValue' not found (method)
+20181113 093747 main.c:212: error: No subject
+20181113 093747 main.c:212: error: No subject
+20181113 093747 main.c:214: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:214: error: No subject
+20181113 093747 main.c:214: error: No subject
+20181113 093747 main.c:215: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:215: error: No subject
+20181113 093747 main.c:215: error: No subject
+20181113 093747 main.c:217: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:217: error: No subject
+20181113 093747 main.c:217: error: No subject
+20181113 093747 main.c:219: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:219: error: No subject
+20181113 093747 main.c:219: error: No subject
+20181113 093747 main.c:235: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:235: error: No subject
+20181113 093747 main.c:235: error: No subject
+20181113 093747 main.c:236: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:236: error: No subject
+20181113 093747 main.c:236: error: No subject
+20181113 093747 main.c:236: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:236: error: No subject
+20181113 093747 main.c:236: error: No subject
+20181113 093747 main.c:237: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:237: error: No subject
+20181113 093747 main.c:237: error: No subject
+20181113 093747 main.c:239: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:239: error: No subject
+20181113 093747 main.c:239: error: No subject
+20181113 093747 main.c:240: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:240: error: No subject
+20181113 093747 main.c:240: error: No subject
+20181113 093747 main.c:259: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:259: error: No subject
+20181113 093747 main.c:259: error: No subject
+20181113 093747 main.c:265: error: Symbol 'VDIValue' not found (method)
+20181113 093747 main.c:265: error: No subject
+20181113 093747 main.c:265: error: No subject
+20181113 093747 main.c:268: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:268: error: No subject
+20181113 093747 main.c:268: error: No subject
+20181113 093747 main.c:270: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:270: error: No subject
+20181113 093747 main.c:270: error: No subject
+20181113 093747 main.c:272: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:272: error: No subject
+20181113 093747 main.c:272: error: No subject
+20181113 093747 main.c:288: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:288: error: No subject
+20181113 093747 main.c:288: error: No subject
+20181113 093747 main.c:289: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:289: error: No subject
+20181113 093747 main.c:289: error: No subject
+20181113 093747 main.c:291: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:291: error: No subject
+20181113 093747 main.c:291: error: No subject
+20181113 093747 main.c:292: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:292: error: No subject
+20181113 093747 main.c:292: error: No subject
+20181113 093747 main.c:306: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:306: error: No subject
+20181113 093747 main.c:306: error: No subject
+20181113 093747 main.c:306: error: Invalid parameter
+20181113 093747 main.c:310: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:310: error: No subject
+20181113 093747 main.c:310: error: No subject
+20181113 093747 main.c:311: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:311: error: No subject
+20181113 093747 main.c:311: error: No subject
+20181113 093747 main.c:313: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:313: error: No subject
+20181113 093747 main.c:313: error: No subject
+20181113 093747 main.c:315: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:315: error: No subject
+20181113 093747 main.c:315: error: No subject
+20181113 093747 main.c:322: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:322: error: No subject
+20181113 093747 main.c:322: error: No subject
+20181113 093747 main.c:323: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:323: error: No subject
+20181113 093747 main.c:323: error: No subject
+20181113 093747 main.c:324: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:324: error: No subject
+20181113 093747 main.c:324: error: No subject
+20181113 093747 main.c:324: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:324: error: No subject
+20181113 093747 main.c:324: error: No subject
+20181113 093747 main.c:325: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:325: error: No subject
+20181113 093747 main.c:325: error: No subject
+20181113 093747 main.c:333: error: Method 'TStaticIOManager.Init' not found
+20181113 093747 main.c:383: error: Method 'TStaticIOManager.LoadDefault' not found
+20181113 093747 main.c:397: error: Method 'TStaticIOManager.Run' not found
+20181113 093747 main.c:410: error: Symbol 'VAIValue' not found (method)
+20181113 093747 main.c:410: error: No subject
+20181113 093747 main.c:410: error: Invalid parameter
+20181113 093747 main.c:411: error: Symbol 'VAIValue' not found (method)
+20181113 093747 main.c:411: error: No subject
+20181113 093747 main.c:411: error: Invalid parameter
+20181113 093747 main.c:412: error: Symbol 'VAIValue' not found (method)
+20181113 093747 main.c:412: error: No subject
+20181113 093747 main.c:412: error: Invalid parameter
+20181113 093747 main.c:413: error: Symbol 'VAIValue' not found (method)
+20181113 093747 main.c:413: error: No subject
+20181113 093747 main.c:413: error: Invalid parameter
+20181113 093747 main.c:428: error: Symbol 'VDIValue' not found (method)
+20181113 093747 main.c:428: error: No subject
+20181113 093747 main.c:428: error: Invalid parameter
+20181113 093747 main.c:430: error: Symbol 'VDIValue' not found (method)
+20181113 093747 main.c:430: error: No subject
+20181113 093747 main.c:430: error: No subject
+20181113 093747 main.c:443: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:443: error: No subject
+20181113 093747 main.c:443: error: No subject
+20181113 093747 main.c:445: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:445: error: No subject
+20181113 093747 main.c:445: error: No subject
+20181113 093747 main.c:447: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:447: error: No subject
+20181113 093747 main.c:447: error: No subject
+20181113 093747 main.c:476: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:476: error: No subject
+20181113 093747 main.c:476: error: No subject
+20181113 093747 main.c:479: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:479: error: No subject
+20181113 093747 main.c:479: error: No subject
+20181113 093747 main.c:485: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:485: error: No subject
+20181113 093747 main.c:485: error: No subject
+20181113 093747 main.c:500: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:500: error: No subject
+20181113 093747 main.c:500: error: No subject
+20181113 093747 main.c:569: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:569: error: No subject
+20181113 093747 main.c:569: error: No subject
+20181113 093747 main.c:570: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:570: error: No subject
+20181113 093747 main.c:570: error: No subject
+20181113 093747 main.c:572: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:572: error: No subject
+20181113 093747 main.c:572: error: No subject
+20181113 093747 main.c:573: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:573: error: No subject
+20181113 093747 main.c:573: error: No subject
+20181113 093747 main.c:575: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:575: error: No subject
+20181113 093747 main.c:575: error: No subject
+20181113 093747 main.c:575: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:575: error: No subject
+20181113 093747 main.c:575: error: No subject
+20181113 093747 main.c:576: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:576: error: No subject
+20181113 093747 main.c:576: error: No subject
+20181113 093747 main.c:576: error: Symbol 'VDOValue' not found (method)
+20181113 093747 main.c:576: error: No subject
+20181113 093747 main.c:576: error: No subject
+20181113 093747 main.c:588: error: Symbol 'VDIValue' not found (method)
+20181113 093747 main.c:588: error: No subject
+20181113 093747 main.c:588: error: No subject
+20181113 093747 main.c:588: error: Invalid parameter
+20181113 093747 main.c:592: error: Symbol 'VDIValue' not found (method)
+20181113 093748 main.c:592: error: No subject
+20181113 093748 main.c:592: error: Invalid parameter
+20181113 093748 main.c:598: error: Symbol 'VDIValue' not found (method)
+20181113 093748 main.c:598: error: No subject
+20181113 093748 main.c:598: error: Invalid parameter
+20181113 093748 main.c:600: error: Symbol 'VDIValue' not found (method)
+20181113 093748 main.c:600: error: No subject
+20181113 093748 main.c:600: error: Invalid parameter
+20181113 093748 main.c:602: error: Symbol 'VDIValue' not found (method)
+20181113 093748 main.c:602: error: No subject
+20181113 093748 main.c:602: error: Invalid parameter
+20181113 093748 main.c:619: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:619: error: No subject
+20181113 093748 main.c:619: error: No subject
+20181113 093748 main.c:620: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:620: error: No subject
+20181113 093748 main.c:620: error: No subject
+20181113 093748 main.c:622: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:622: error: No subject
+20181113 093748 main.c:622: error: Invalid parameter
+20181113 093748 main.c:623: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:623: error: No subject
+20181113 093748 main.c:623: error: Invalid parameter
+20181113 093748 main.c:624: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:624: error: No subject
+20181113 093748 main.c:624: error: Invalid parameter
+20181113 093748 main.c:625: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:625: error: No subject
+20181113 093748 main.c:625: error: Invalid parameter
+20181113 093748 main.c:626: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:626: error: No subject
+20181113 093748 main.c:626: error: Invalid parameter
+20181113 093748 main.c:627: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:627: error: No subject
+20181113 093748 main.c:627: error: Invalid parameter
+20181113 093748 main.c:628: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:628: error: No subject
+20181113 093748 main.c:628: error: Invalid parameter
+20181113 093748 main.c:629: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:629: error: No subject
+20181113 093748 main.c:629: error: Invalid parameter
+20181113 093748 main.c:630: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:630: error: No subject
+20181113 093748 main.c:630: error: Invalid parameter
+20181113 093748 main.c:631: error: Symbol 'VDOValue' not found (method)
+20181113 093748 main.c:631: error: No subject
+20181113 093748 main.c:631: error: Invalid parameter
+20181113 093748 AlgoLib.c:95: error: Invalid expression
+20181113 093748 AlgoLib.c:96: error: Invalid expression
+20181113 093748 AlgoLib.c:97: error: Invalid expression
+20181113 093748 AlgoLib.c:98: error: Invalid expression
+20181113 093748 *** ERROR ***
+
+
+20181113 093805 MCX compiler v2.51 (20181112)
+20181113 093805 compiling main.c  with options -g -c main.c -o main.o...
+20181113 093810 main.o:0: note: e2p=805, ram=1820, rom=24704
+20181113 093810 TotalPersistentSize= 805
+20181113 093810 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 093810 TotalCodeSize=       18383
+20181113 093810 TotalConstSize=      4266
+20181113 093810 TotalPackages=       1 (*44)
+20181113 093810 TotalMethods=        167 (*12)
+20181113 093810 TotalClasses=        51 (*0)
+
+
+20181113 093810 MCX compiler v2.51 (20181112)
+20181113 093810 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 093811 useri.c:22: error: Include file not found (UILib.c)
+20181113 093812 unknown:0: error: Link error - Symbol 'SchedulePoint' not found (Type)
+20181113 093812 useri.c:264: error: Link error - Symbol 'SchedulePoint' not found (Type)
+20181113 093812 useri.c:110: warning: Illegal array size
+20181113 093812 useri.c:147: warning: Illegal array size
+20181113 093812 useri.c:110: warning: Illegal array size
+20181113 093812 useri.c:110: warning: Illegal array size
+20181113 093812 useri.c:147: warning: Illegal array size
+20181113 093812 useri.c:147: warning: Illegal array size
+20181113 093812 useri.c:65: error: Method 'SchedulePoint.point' not found
+20181113 093812 useri.c:65: error: Method 'SchedulePoint.set' not found
+20181113 093812 useri.c:63: error: Symbol 'MAXSCHEDULEPOINTS' not found (method)
+20181113 093812 useri.c:63: error: Invalid parameter
+20181113 093812 useri.c:63: error: Symbol 'MAXSCHEDULEPOINTS' not found (method)
+20181113 093812 useri.c:63: error: Invalid parameter
+20181113 093812 useri.c:63: error: Symbol 'ARRAY_LENGTH' not found (method)
+20181113 093812 useri.c:63: error: Invalid parameter
+20181113 093812 useri.c:76: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:76: error: No subject
+20181113 093812 useri.c:77: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:77: error: No subject
+20181113 093812 useri.c:77: error: No subject
+20181113 093812 useri.c:91: error: Symbol 'CANVar' not found (method)
+20181113 093812 useri.c:91: error: No subject
+20181113 093812 useri.c:91: error: No subject
+20181113 093812 useri.c:91: error: Invalid parameter
+20181113 093812 useri.c:99: error: Symbol 'CANVar' not found (method)
+20181113 093812 useri.c:99: error: No subject
+20181113 093812 useri.c:103: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:103: error: No subject
+20181113 093812 useri.c:355: error: Symbol 'UILib_Init' not found (method)
+20181113 093812 useri.c:386: error: Symbol 'UILib_Run' not found (method)
+20181113 093812 useri.c:386: error: No subject
+20181113 093812 useri.c:388: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:388: error: No subject
+20181113 093812 useri.c:388: error: No subject
+20181113 093812 useri.c:394: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:394: error: No subject
+20181113 093812 useri.c:394: error: No subject
+20181113 093812 useri.c:398: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:398: error: No subject
+20181113 093812 useri.c:398: error: No subject
+20181113 093812 useri.c:400: error: Symbol 'CANVar' not found (method)
+20181113 093812 useri.c:400: error: No subject
+20181113 093812 useri.c:401: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:401: error: No subject
+20181113 093812 useri.c:404: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:404: error: No subject
+20181113 093812 useri.c:404: error: No subject
+20181113 093812 useri.c:406: error: Symbol 'CANVar' not found (method)
+20181113 093812 useri.c:406: error: No subject
+20181113 093812 useri.c:407: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:407: error: No subject
+20181113 093812 useri.c:410: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:410: error: No subject
+20181113 093812 useri.c:410: error: No subject
+20181113 093812 useri.c:412: error: Symbol 'CANVar' not found (method)
+20181113 093812 useri.c:412: error: No subject
+20181113 093812 useri.c:413: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:413: error: No subject
+20181113 093812 useri.c:418: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:418: error: No subject
+20181113 093812 useri.c:418: error: No subject
+20181113 093812 useri.c:418: error: No subject
+20181113 093812 useri.c:419: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:419: error: No subject
+20181113 093812 useri.c:437: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:437: error: No subject
+20181113 093812 useri.c:441: error: Symbol 'CheckNoConnection' not found (method)
+20181113 093812 useri.c:441: error: No subject
+20181113 093812 useri.c:446: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:446: error: No subject
+20181113 093812 useri.c:448: error: Symbol 'UI' not found (method)
+20181113 093812 useri.c:448: error: No subject
+20181113 093812 useri.c:448: error: No subject
+20181113 093812 useri.c:453: error: Symbol 'CANVar' not found (method)
+20181113 093812 useri.c:453: error: No subject
+20181113 093812 useri.c:461: error: Symbol 'AlarmNotification' not found (method)
+20181113 093812 useri.c:461: error: No subject
+20181113 093812 useri.c:461: error: Invalid parameter
+20181113 093812 useri.c:462: error: Symbol 'Temp_CO' not found (method)
+20181113 093812 useri.c:462: error: Invalid parameter
+20181113 093812 useri.c:463: error: Symbol 'VAIValue' not found (method)
+20181113 093812 useri.c:463: error: No subject
+20181113 093812 useri.c:463: error: Invalid parameter
+20181113 093812 useri.c:479: error: Symbol 'AlarmNotification' not found (method)
+20181113 093812 useri.c:479: error: No subject
+20181113 093812 useri.c:479: error: Invalid parameter
+20181113 093812 useri.c:480: error: Symbol 'VDOValue' not found (method)
+20181113 093812 useri.c:480: error: No subject
+20181113 093812 useri.c:480: error: Invalid parameter
+20181113 093812 useri.c:481: error: Symbol 'VDOValue' not found (method)
+20181113 093812 useri.c:481: error: No subject
+20181113 093812 useri.c:481: error: No subject
+20181113 093812 useri.c:481: error: Invalid parameter
+20181113 093812 useri.c:482: error: Symbol 'VDOValue' not found (method)
+20181113 093812 useri.c:482: error: No subject
+20181113 093812 useri.c:482: error: Invalid parameter
+20181113 093812 useri.c:483: error: Symbol 'VDOValue' not found (method)
+20181113 093812 useri.c:483: error: No subject
+20181113 093812 useri.c:483: error: Invalid parameter
+20181113 093812 useri.c:485: error: Symbol 'VDOValue' not found (method)
+20181113 093812 useri.c:485: error: No subject
+20181113 093812 useri.c:485: error: No subject
+20181113 093812 useri.c:485: error: No subject
+20181113 093812 useri.c:485: error: No subject
+20181113 093812 useri.c:485: error: No subject
+20181113 093812 useri.c:486: error: Symbol 'VDOValue' not found (method)
+20181113 093812 useri.c:486: error: No subject
+20181113 093812 useri.c:486: error: No subject
+20181113 093812 useri.c:486: error: No subject
+20181113 093812 useri.c:486: error: No subject
+20181113 093812 useri.c:492: error: Symbol 'VAIValue' not found (method)
+20181113 093812 useri.c:492: error: No subject
+20181113 093812 useri.c:492: error: Invalid parameter
+20181113 093812 useri.c:493: error: Symbol 'VAIValue' not found (method)
+20181113 093812 useri.c:493: error: No subject
+20181113 093812 useri.c:493: error: Invalid parameter
+20181113 093812 useri.c:496: error: Symbol 'Params_Temp_RealBuilding' not found (method)
+20181113 093812 useri.c:496: error: Invalid parameter
+20181113 093812 useri.c:497: error: Symbol 'VAIValue' not found (method)
+20181113 093812 useri.c:497: error: No subject
+20181113 093812 useri.c:497: error: Invalid parameter
+20181113 093812 useri.c:498: error: Symbol 'VAIValue' not found (method)
+20181113 093813 useri.c:498: error: No subject
+20181113 093813 useri.c:498: error: Invalid parameter
+20181113 093813 *** ERROR ***
+
+
+20181113 093841 MCX compiler v2.51 (20181112)
+20181113 093841 compiling main.c  with options -g -c main.c -o main.o...
+20181113 093847 main.o:0: note: e2p=805, ram=1820, rom=24704
+20181113 093847 TotalPersistentSize= 805
+20181113 093847 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 093847 TotalCodeSize=       18383
+20181113 093847 TotalConstSize=      4266
+20181113 093847 TotalPackages=       1 (*44)
+20181113 093847 TotalMethods=        167 (*12)
+20181113 093847 TotalClasses=        51 (*0)
+
+
+20181113 093847 MCX compiler v2.51 (20181112)
+20181113 093847 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 093853 useri.o:0: note: e2p=20, ram=3444, rom=38104
+20181113 093853 TotalPersistentSize= 20
+20181113 093853 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 093853 TotalCodeSize=       27301
+20181113 093853 TotalConstSize=      8715
+20181113 093853 TotalPackages=       1 (*44)
+20181113 093853 TotalMethods=        170 (*12)
+20181113 093853 TotalClasses=        49 (*0)
+
+
+20181113 094005 MCX compiler v2.51 (20181112)
+20181113 094005 compiling main.c  with options -g -c main.c -o main.o...
+20181113 094010 main.o:0: note: e2p=805, ram=1820, rom=24800
+20181113 094010 TotalPersistentSize= 805
+20181113 094010 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 094010 TotalCodeSize=       18479
+20181113 094010 TotalConstSize=      4266
+20181113 094010 TotalPackages=       1 (*44)
+20181113 094010 TotalMethods=        167 (*12)
+20181113 094010 TotalClasses=        51 (*0)
+
+
+20181113 094010 MCX compiler v2.51 (20181112)
+20181113 094010 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 094016 useri.o:0: note: e2p=20, ram=3444, rom=38104
+20181113 094016 TotalPersistentSize= 20
+20181113 094016 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 094016 TotalCodeSize=       27301
+20181113 094016 TotalConstSize=      8715
+20181113 094016 TotalPackages=       1 (*44)
+20181113 094016 TotalMethods=        170 (*12)
+20181113 094016 TotalClasses=        49 (*0)
+
+
+20181113 095225 MCX compiler v2.51 (20181112)
+20181113 095225 compiling main.c  with options -g -c main.c -o main.o...
+20181113 095230 main.o:0: note: e2p=805, ram=1820, rom=24800
+20181113 095230 TotalPersistentSize= 805
+20181113 095230 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 095230 TotalCodeSize=       18479
+20181113 095230 TotalConstSize=      4266
+20181113 095230 TotalPackages=       1 (*44)
+20181113 095230 TotalMethods=        167 (*12)
+20181113 095230 TotalClasses=        51 (*0)
+
+
+20181113 095230 MCX compiler v2.51 (20181112)
+20181113 095230 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 095236 useri.o:0: note: e2p=20, ram=3444, rom=38104
+20181113 095236 TotalPersistentSize= 20
+20181113 095236 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 095236 TotalCodeSize=       27301
+20181113 095236 TotalConstSize=      8715
+20181113 095236 TotalPackages=       1 (*44)
+20181113 095236 TotalMethods=        170 (*12)
+20181113 095236 TotalClasses=        49 (*0)
+
+
+20181113 095305 MCX compiler v2.51 (20181112)
+20181113 095305 compiling main.c  with options -g -c main.c -o main.o...
+20181113 095311 main.o:0: note: e2p=805, ram=1820, rom=24800
+20181113 095311 TotalPersistentSize= 805
+20181113 095311 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 095311 TotalCodeSize=       18479
+20181113 095311 TotalConstSize=      4266
+20181113 095311 TotalPackages=       1 (*44)
+20181113 095311 TotalMethods=        167 (*12)
+20181113 095311 TotalClasses=        51 (*0)
+
+
+20181113 095311 MCX compiler v2.51 (20181112)
+20181113 095311 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 095318 useri.o:0: note: e2p=20, ram=3444, rom=38104
+20181113 095318 TotalPersistentSize= 20
+20181113 095318 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 095318 TotalCodeSize=       27301
+20181113 095318 TotalConstSize=      8715
+20181113 095318 TotalPackages=       1 (*44)
+20181113 095318 TotalMethods=        170 (*12)
+20181113 095318 TotalClasses=        49 (*0)
+
+
+20181113 095329 MCX compiler v2.51 (20181112)
+20181113 095329 compiling main.c  with options -g -c main.c -o main.o...
+20181113 095334 main.o:0: note: e2p=805, ram=1820, rom=24800
+20181113 095334 TotalPersistentSize= 805
+20181113 095334 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 095334 TotalCodeSize=       18479
+20181113 095334 TotalConstSize=      4266
+20181113 095334 TotalPackages=       1 (*44)
+20181113 095334 TotalMethods=        167 (*12)
+20181113 095334 TotalClasses=        51 (*0)
+
+
+20181113 095334 MCX compiler v2.51 (20181112)
+20181113 095334 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 095340 useri.o:0: note: e2p=20, ram=3444, rom=38104
+20181113 095340 TotalPersistentSize= 20
+20181113 095340 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 095340 TotalCodeSize=       27301
+20181113 095340 TotalConstSize=      8715
+20181113 095340 TotalPackages=       1 (*44)
+20181113 095340 TotalMethods=        170 (*12)
+20181113 095340 TotalClasses=        49 (*0)
+
+
+20181113 095455 MCX compiler v2.51 (20181112)
+20181113 095455 compiling main.c  with options -g -c main.c -o main.o...
+20181113 095500 main.o:0: note: e2p=805, ram=1820, rom=24800
+20181113 095500 TotalPersistentSize= 805
+20181113 095500 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 095500 TotalCodeSize=       18479
+20181113 095500 TotalConstSize=      4266
+20181113 095500 TotalPackages=       1 (*44)
+20181113 095500 TotalMethods=        167 (*12)
+20181113 095500 TotalClasses=        51 (*0)
+
+
+20181113 095501 MCX compiler v2.51 (20181112)
+20181113 095501 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 095507 useri.o:0: note: e2p=20, ram=3444, rom=38104
+20181113 095507 TotalPersistentSize= 20
+20181113 095507 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 095507 TotalCodeSize=       27301
+20181113 095507 TotalConstSize=      8715
+20181113 095507 TotalPackages=       1 (*44)
+20181113 095507 TotalMethods=        170 (*12)
+20181113 095507 TotalClasses=        49 (*0)
+
+
+20181113 095608 MCX compiler v2.51 (20181112)
+20181113 095608 compiling main.c  with options -g -c main.c -o main.o...
+20181113 095614 main.o:0: note: e2p=805, ram=1820, rom=24800
+20181113 095614 TotalPersistentSize= 805
+20181113 095614 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 095614 TotalCodeSize=       18479
+20181113 095614 TotalConstSize=      4266
+20181113 095614 TotalPackages=       1 (*44)
+20181113 095614 TotalMethods=        167 (*12)
+20181113 095614 TotalClasses=        51 (*0)
+
+
+20181113 095614 MCX compiler v2.51 (20181112)
+20181113 095614 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 095620 useri.o:0: note: e2p=20, ram=3444, rom=38104
+20181113 095620 TotalPersistentSize= 20
+20181113 095620 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 095620 TotalCodeSize=       27301
+20181113 095620 TotalConstSize=      8715
+20181113 095620 TotalPackages=       1 (*44)
+20181113 095620 TotalMethods=        170 (*12)
+20181113 095620 TotalClasses=        49 (*0)
+
+
+20181113 095639 MCX compiler v2.51 (20181112)
+20181113 095639 compiling main.c  with options -g -c main.c -o main.o...
+20181113 095644 main.o:0: note: e2p=805, ram=1820, rom=24800
+20181113 095644 TotalPersistentSize= 805
+20181113 095644 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 095644 TotalCodeSize=       18479
+20181113 095644 TotalConstSize=      4266
+20181113 095644 TotalPackages=       1 (*44)
+20181113 095644 TotalMethods=        167 (*12)
+20181113 095644 TotalClasses=        51 (*0)
+
+
+20181113 095644 MCX compiler v2.51 (20181112)
+20181113 095644 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 095651 useri.o:0: note: e2p=20, ram=3444, rom=38104
+20181113 095651 TotalPersistentSize= 20
+20181113 095651 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 095651 TotalCodeSize=       27301
+20181113 095651 TotalConstSize=      8715
+20181113 095651 TotalPackages=       1 (*44)
+20181113 095651 TotalMethods=        170 (*12)
+20181113 095651 TotalClasses=        49 (*0)
+
+
+20181113 100039 MCX compiler v2.51 (20181112)
+20181113 100039 compiling main.c  with options -g -c main.c -o main.o...
+20181113 100045 main.o:0: note: e2p=805, ram=1820, rom=24800
+20181113 100045 TotalPersistentSize= 805
+20181113 100045 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 100045 TotalCodeSize=       18479
+20181113 100045 TotalConstSize=      4266
+20181113 100045 TotalPackages=       1 (*44)
+20181113 100045 TotalMethods=        167 (*12)
+20181113 100045 TotalClasses=        51 (*0)
+
+
+20181113 100045 MCX compiler v2.51 (20181112)
+20181113 100045 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 100051 useri.c:496: error: Symbol 'Moc_inwertera' not found (method)
+20181113 100051 useri.c:496: error: Invalid parameter
+20181113 100051 *** ERROR ***
+
+
+20181113 100358 MCX compiler v2.51 (20181112)
+20181113 100358 compiling main.c  with options -g -c main.c -o main.o...
+20181113 100404 main.c:92: error: Modbus index already used (5100)
+20181113 100404 *** ERROR ***
+
+
+20181113 100452 MCX compiler v2.51 (20181112)
+20181113 100452 compiling main.c  with options -g -c main.c -o main.o...
+20181113 100457 main.c:92: error: Modbus index already used (5151)
+20181113 100457 *** ERROR ***
+
+
+20181113 100510 MCX compiler v2.51 (20181112)
+20181113 100510 compiling main.c  with options -g -c main.c -o main.o...
+20181113 100515 main.c:92: error: Modbus index already used (5200)
+20181113 100515 *** ERROR ***
+
+
+20181113 100522 MCX compiler v2.51 (20181112)
+20181113 100522 compiling main.c  with options -g -c main.c -o main.o...
+20181113 100528 main.o:0: note: e2p=805, ram=1820, rom=24804
+20181113 100528 TotalPersistentSize= 805
+20181113 100528 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 100528 TotalCodeSize=       18479
+20181113 100528 TotalConstSize=      4270
+20181113 100528 TotalPackages=       1 (*44)
+20181113 100528 TotalMethods=        167 (*12)
+20181113 100528 TotalClasses=        51 (*0)
+
+
+20181113 100528 MCX compiler v2.51 (20181112)
+20181113 100528 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 100534 useri.c:496: error: Symbol 'Moc_inwertera' not found (method)
+20181113 100534 useri.c:496: error: Invalid parameter
+20181113 100535 *** ERROR ***
+
+
+20181113 101113 MCX compiler v2.51 (20181112)
+20181113 101113 compiling main.c  with options -g -c main.c -o main.o...
+20181113 101118 main.o:0: note: e2p=805, ram=1820, rom=24804
+20181113 101118 TotalPersistentSize= 805
+20181113 101118 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 101118 TotalCodeSize=       18479
+20181113 101118 TotalConstSize=      4270
+20181113 101118 TotalPackages=       1 (*44)
+20181113 101118 TotalMethods=        167 (*12)
+20181113 101118 TotalClasses=        51 (*0)
+
+
+20181113 101118 MCX compiler v2.51 (20181112)
+20181113 101118 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 101124 useri.o:0: note: e2p=20, ram=3444, rom=38108
+20181113 101124 TotalPersistentSize= 20
+20181113 101124 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 101124 TotalCodeSize=       27305
+20181113 101124 TotalConstSize=      8714
+20181113 101124 TotalPackages=       1 (*44)
+20181113 101124 TotalMethods=        170 (*12)
+20181113 101124 TotalClasses=        49 (*0)
+
+
+20181113 101415 MCX compiler v2.51 (20181112)
+20181113 101415 compiling main.c  with options -g -c main.c -o main.o...
+20181113 101420 main.o:0: note: e2p=805, ram=1820, rom=24804
+20181113 101420 TotalPersistentSize= 805
+20181113 101420 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 101420 TotalCodeSize=       18479
+20181113 101420 TotalConstSize=      4270
+20181113 101420 TotalPackages=       1 (*44)
+20181113 101420 TotalMethods=        167 (*12)
+20181113 101420 TotalClasses=        51 (*0)
+
+
+20181113 101421 MCX compiler v2.51 (20181112)
+20181113 101421 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 101427 useri.o:0: note: e2p=20, ram=3444, rom=38108
+20181113 101427 TotalPersistentSize= 20
+20181113 101427 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 101427 TotalCodeSize=       27306
+20181113 101427 TotalConstSize=      8715
+20181113 101427 TotalPackages=       1 (*44)
+20181113 101427 TotalMethods=        170 (*12)
+20181113 101427 TotalClasses=        49 (*0)
+
+
+20181113 102329 MCX compiler v2.51 (20181112)
+20181113 102329 compiling main.c  with options -g -c main.c -o main.o...
+20181113 102334 main.o:0: note: e2p=805, ram=1820, rom=24804
+20181113 102334 TotalPersistentSize= 805
+20181113 102334 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 102334 TotalCodeSize=       18479
+20181113 102334 TotalConstSize=      4270
+20181113 102334 TotalPackages=       1 (*44)
+20181113 102334 TotalMethods=        167 (*12)
+20181113 102334 TotalClasses=        51 (*0)
+
+
+20181113 102334 MCX compiler v2.51 (20181112)
+20181113 102334 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 102341 useri.o:0: note: e2p=20, ram=3444, rom=38108
+20181113 102341 TotalPersistentSize= 20
+20181113 102341 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 102341 TotalCodeSize=       27306
+20181113 102341 TotalConstSize=      8715
+20181113 102341 TotalPackages=       1 (*44)
+20181113 102341 TotalMethods=        170 (*12)
+20181113 102341 TotalClasses=        49 (*0)
+
+
+20181113 102455 MCX compiler v2.51 (20181112)
+20181113 102455 compiling main.c  with options -g -c main.c -o main.o...
+20181113 102501 main.o:0: note: e2p=805, ram=1820, rom=24804
+20181113 102501 TotalPersistentSize= 805
+20181113 102501 TotalStackSize=      1820 (gvar=1476, stack=344)
+20181113 102501 TotalCodeSize=       18479
+20181113 102501 TotalConstSize=      4270
+20181113 102501 TotalPackages=       1 (*44)
+20181113 102501 TotalMethods=        167 (*12)
+20181113 102501 TotalClasses=        51 (*0)
+
+
+20181113 102501 MCX compiler v2.51 (20181112)
+20181113 102501 compiling useri.c  with options -g -c useri.c -o useri.o...
+20181113 102507 useri.o:0: note: e2p=20, ram=3444, rom=38132
+20181113 102507 TotalPersistentSize= 20
+20181113 102507 TotalStackSize=      3444 (gvar=2958, stack=486)
+20181113 102507 TotalCodeSize=       27330
+20181113 102507 TotalConstSize=      8715
+20181113 102507 TotalPackages=       1 (*44)
+20181113 102507 TotalMethods=        170 (*12)
+20181113 102507 TotalClasses=        49 (*0)
+

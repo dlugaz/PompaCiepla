@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NetBiterTemplateConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BaseParamIndex>3000</BaseParamIndex>
+    <zBaseAlarmIndex>12288</zBaseAlarmIndex>
+    <BaseAlarmIndex>2000</BaseAlarmIndex>
+    <IOValueBaseIndex>1000</IOValueBaseIndex>
+    <VIOBaseIndex>4000</VIOBaseIndex>
+    <BaseDIIndex>1000</BaseDIIndex>
+    <BaseDOIndex>1002</BaseDOIndex>
+    <BaseAIIndex>1004</BaseAIIndex>
+    <BaseAOIndex>1020</BaseAOIndex>
+    <ExportAlarmsAsCoil>false</ExportAlarmsAsCoil>
+    <ExportAlarmsAsPackedArray>true</ExportAlarmsAsPackedArray>
+    <ExportAlarmsAsPackedArrayRBit>false</ExportAlarmsAsPackedArrayRBit>
+    <HideKParams>false</HideKParams>
+    <DecimalsOnAO>1</DecimalsOnAO>
+    <HideVars/>
+    <LonWorksExport/>
+	<StatusVars/>
+</NetBiterTemplateConfig>
